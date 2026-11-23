@@ -1,5 +1,6 @@
 # Campus activités
-
+tahri
+ali-syed
 Maquette de départ du projet BTS SIO SLAM. Ouvrez le cahier des charges Word situé à côté de ce dossier dans le ZIP.
 
 ## Lancer la maquette
